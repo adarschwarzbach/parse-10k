@@ -1,0 +1,12 @@
+2022 https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/tsla-20211231.htm
+2021 https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/tsla-10k_20201231.htm
+2020 https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000156459020004475/tsla-10k_20191231.htm
+2019 https://www.sec.gov/Archives/edgar/data/1318605/000156459019003165/tsla-10k_20181231.htm
+2018 https://www.sec.gov/Archives/edgar/data/1318605/000156459018002956/tsla-10k_20171231.htm
+2017 https://www.sec.gov/Archives/edgar/data/1318605/000156459017003118/tsla-10k_20161231.htm
+2016 https://www.sec.gov/Archives/edgar/data/1318605/000156459016013195/tsla-10k_20151231.htm
+2015 https://www.sec.gov/Archives/edgar/data/1318605/000156459015001031/tsla-10k_20141231.htm
+2014 https://www.sec.gov/Archives/edgar/data/1318605/000119312514069681/d668062d10k.htm
+2013 https://www.sec.gov/Archives/edgar/data/1318605/000119312513096241/d452995d10k.htm
+2012 https://www.sec.gov/Archives/edgar/data/1318605/000119312512081990/d279413d10k.htm
+2011 https://www.sec.gov/Archives/edgar/data/1318605/000119312511054847/d10k.htm
