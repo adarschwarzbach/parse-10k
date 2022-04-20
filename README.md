@@ -1,0 +1,2 @@
+# parse-10k
+ write a Python script that gets as an input a symbol of a US exchange-listed company and retrieves the content of the first section:  "Item 1. - Business", from all of the company's available 10-K files as follows: Example: {     "2021": &lt;ITEM-1-HTML-ELEMENT>,     "2020": &lt;ITEM-1-HTML-ELEMENT>,     "2019": &lt;ITEM-1-HTML-ELEMENT> } (The output should be a JSON object)  Each key should represent a year (means key for every annual report). Each value should contain the HTML object of "Item 1. - Business".
